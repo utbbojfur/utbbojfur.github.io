@@ -1,0 +1,116 @@
+body{
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.navbar{
+    background-color: #1565C0;
+    box-shadow: 2px 4px 10px #d5d5d5;
+}
+
+.navbar .nav > li > a, .navbar .nav > li > a:visited {
+
+    color:white;
+}
+
+.navbar .nav .active{
+    background-color: #0c3a6e;
+}
+
+.navbar-custom .navbar-toggle .icon-bar{
+    background-color: white;
+}
+
+.navbar-custom .navbar-brand{
+    color: white;
+}
+.navbar-custom .navbar-toggle{
+}
+
+.navbar-custom .navbar-nav > li > a:hover, .nav > li > a:focus{
+    background-color: #0c3a6e;
+}
+
+.block1{
+    padding: 15px;
+    text-align: justify;
+    display: table-cell;
+    background-color: white;
+    box-shadow: 2px 4px 15px #d5d5d5;
+    border-radius: 2px;
+}
+
+.block2{
+    padding: 15px;
+    margin-top: 10px;
+    text-align: justify;
+    background-color: white;
+    box-shadow: 2px 2px 15px #d5d5d5;
+    border-radius: 2px;
+}
+
+
+.block3{
+    padding: 15px;
+    margin-top: 10px;
+    text-align: justify;
+    background-color: white;
+    box-shadow: 2px 4px 15px #d5d5d5;
+    border-radius: 2px;
+}
+
+
+h4{
+    font-weight: 700;
+}
+#malmo{
+    width: 600px;
+    padding-bottom: 20px;
+    padding-top: 70px;
+    display: block;
+    margin: auto;
+
+}
+
+.MODText{
+    padding: 15px;
+    margin-top: 10px;
+    text-align: justify;
+    display: table-cell;
+    background-color: white;
+    box-shadow: 2px 4px 15px #d5d5d5;
+    border-radius: 2px;
+}
+
+.MODText2{
+    padding: 15px;
+    margin-top: 10px;
+    text-align: right;
+    background-color: white;
+    box-shadow: 2px 4px 15px #d5d5d5;
+    border-radius: 2px;
+
+}
+
+
+#MODBild1{
+    width: 800px;
+    display: block;
+    margin: auto;
+    padding-top: 60px;
+    padding-bottom: 10px;
+
+}
+
+#MODBild2{
+    width: 300px;
+    float: right;
+    padding: 10px;
+}
+
+
+.text-muted{
+    text-align: center;
+    list-style-type: none;
+    margin: 10px;
+}
+
